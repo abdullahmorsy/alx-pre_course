@@ -1,1 +1,1 @@
-redme file in the folder 0x01-git
+readme file in 0x01-git
